@@ -1,0 +1,48 @@
+{
+  "name": "imagemin-instant",
+  "version": "1.0.0",
+  "description": "Minify a folder of images recursively while preserving folder structure.",
+  "main": "index.js",
+  "dependencies": {
+    "imagemin": "^5.3.1",
+    "recursive-readdir": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdodov/imagemin-instant.git"
+  },
+  "bin": {
+    "imagemin": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "minify",
+    "compress",
+    "images",
+    "photos",
+    "pictures",
+    "easy",
+    "quickly",
+    "cli",
+    "tool",
+    "png",
+    "jpg",
+    "recursion",
+    "recursively",
+    "preserve",
+    "directory",
+    "structure"
+  ],
+  "author": "Hristiyan Dodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdodov/imagemin-instant/issues"
+  },
+  "homepage": "https://github.com/hdodov/imagemin-instant#readme"
+}
