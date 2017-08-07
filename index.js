@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const options = require("minimist")(process.argv.slice(2));
 const path = require("path");
 const recursive = require("recursive-readdir");

@@ -1,6 +1,6 @@
 {
   "name": "imagemin-instant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minify a folder of images recursively while preserving folder structure.",
   "main": "index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
     "url": "git+https://github.com/hdodov/imagemin-instant.git"
   },
   "bin": {
-    "imagemin": "node index.js"
+    "imagemin": "index.js"
   },
   "files": [
     "index.js"
