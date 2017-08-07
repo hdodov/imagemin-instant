@@ -30,7 +30,7 @@ imagemin --in=my-images --out=minified-images
 
 # Options
 
-```js
+```
 --in=dir            // Specify an input directory.
 --out=dir           // Specify an output directory.
 --quality=50        // The quality of minified PNG files.
