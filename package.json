@@ -1,6 +1,6 @@
 {
   "name": "imagemin-instant",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Minify a folder of images recursively while preserving folder structure.",
   "main": "index.js",
   "dependencies": {
